@@ -4,13 +4,14 @@
 ### Идея: 
 Регистрация пользователя, создание статьи и проверка наличия статьи в Global Feed.
 ### Дополнительная информация:
-Ссылка сайта: https://angular.realworld.io/
 
-Юзернейм: testusername
+Ссылка сайта: https://angular.realworld.io/ ;
 
-Email: testname@gmail.com
+Юзернейм: testusername;
 
-Password: password
+Email: testname@gmail.com;
+
+Password: password;
 
 ###  Шаги:
 1. Зайди на сайт по ссылке.
