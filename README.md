@@ -1,4 +1,6 @@
 # AutoTestingExs
+## Аннотация:
+Для запуска кода: Открыть src/test/java/SelenideTest.java
 
 ## Тест-кейс №1.
 ### Идея: 
